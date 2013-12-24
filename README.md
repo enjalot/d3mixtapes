@@ -3,7 +3,7 @@ d3mixtapes
 
 collection of [enjalot](https://twitter.com/enjalot)'s d3 mixtape tutorials
 
-## DOT ENTER
+## [DOT ENTER](http://www.youtube.com/playlist?list=PLI_sHchSmdCDLfLl5uTnsaRB54tDlRubK)
 __color scale__ [pharrell - number one]  
 code: http://tributary.io/inletlet/3650755/
 
@@ -37,7 +37,7 @@ code: http://tributary.io/inlet/3789441/
 __thanks__ [jay-z - encore]  
 code: http://tributary.io/inlet/3779865/
 
-## DOT APPEND (dot enter vol 2)
+## [DOT APPEND (dot enter vol 2)](http://www.youtube.com/playlist?list=PLI_sHchSmdCC2Yg2IXzhGUc2V6dfZK_dV)
 
 __intro__ [ mims - this is why im hot ]  
 code: http://tributary.io/inlet/4242928/
@@ -75,7 +75,7 @@ code: http://enjalot.github.com/intro-d3/gaffta/
 __outro__ [ psy - gangnam style ]  
 code: http://tributary.io/inlet/4211048/
 
-## PROTOTYPE
+## [PROTOTYPE](http://www.youtube.com/playlist?list=PLI_sHchSmdCBa3CrSwobdZWU-tV_ZeaCO)
 
 __prototype__ [macklemore - thrift shop]  
 code: http://tributary.io/inlet/4646056
