@@ -1,7 +1,9 @@
 d3mixtapes
 ==========
 
-collection of [enjalot](https://twitter.com/enjalot)'s d3 mixtape tutorials
+collection of [enjalot](https://twitter.com/enjalot)'s d3 mixtape tutorials.  
+
+just the appetizers... check out [Frontend Masters](http://frontendmasters.com/courses/interactive-data-visualization-d3-js/) for a full course.
 
 ## [DOT ENTER](http://www.youtube.com/playlist?list=PLI_sHchSmdCDLfLl5uTnsaRB54tDlRubK)
 __color scale__ [pharrell - number one]  
